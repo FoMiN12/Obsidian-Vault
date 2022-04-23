@@ -7,9 +7,11 @@
         "id": "19690367b1ac24bb",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Элитные группы/Pasted image 20220423125237.png"
+            "file": "Основы программирования систем управления/Ethernet Powerlink.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -51,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 115
+    "width": 298
   },
   "right": {
     "id": "20b38d84e48b3164",
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Элитные группы/Pasted image 20220423125237.png",
+                "file": "Основы программирования систем управления/Ethernet Powerlink.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +89,15 @@
   },
   "active": "19690367b1ac24bb",
   "lastOpenFiles": [
-    "Элитные группы/Pasted image 20220423125237.png",
-    "Элитные группы/Pasted image 20220423132743.png",
-    "Элитные группы/Pasted image 20220423125529.png",
-    "Элитные группы/Pasted image 20220423125837.png",
-    "Элитные группы/Pasted image 20220423130704.png",
-    "Элитные группы/Pasted image 20220423131400.png",
-    "Элитные группы/Pasted image 20220423132052.png",
+    "Основы программирования систем управления/Ethernet Powerlink.md",
     "Элитные группы/Системы мониторинга команд.md",
-    "Pasted image 20220423125201.png",
-    "Линейная алгебра/Определитель.md"
+    "Pasted image 20220423132931.png",
+    "Pasted image 20220423132743.png",
+    "Pasted image 20220423125529.png",
+    "Элитные группы/Pasted image 20220423125237.png",
+    "Pasted image 20220423125837.png",
+    "Pasted image 20220423130704.png",
+    "Pasted image 20220423131400.png",
+    "Pasted image 20220423132052.png"
   ]
 }
