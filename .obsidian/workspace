@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Элитные группы/Системы мониторинга команд.md",
-            "mode": "preview",
+            "file": "Линейная алгебра/Многочлен.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Элитные группы/Системы мониторинга команд.md",
+                "file": "Линейная алгебра/Многочлен.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "19690367b1ac24bb",
   "lastOpenFiles": [
+    "Линейная алгебра/Многочлен.md",
+    "Линейная алгебра/Определитель.md",
+    "Линейная алгебра/Матрица.md",
     "Элитные группы/Системы мониторинга команд.md",
     "Основы программирования систем управления/Ethernet Powerlink.md",
     "Pasted image 20220423132931.png",
     "Pasted image 20220423132743.png",
     "Pasted image 20220423125529.png",
     "Элитные группы/Pasted image 20220423125237.png",
-    "Pasted image 20220423125837.png",
-    "Pasted image 20220423130704.png",
-    "Pasted image 20220423131400.png",
-    "Pasted image 20220423132052.png"
+    "Pasted image 20220423125837.png"
   ]
 }
