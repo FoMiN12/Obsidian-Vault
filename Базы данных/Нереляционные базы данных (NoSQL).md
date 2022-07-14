@@ -5,8 +5,10 @@
 	 - memcached
 	 - Amazon DynamoDB
 - JSON-документы
-   Используется в документориентированных БД:
-   - mongoDB
-   - CouchDB
-   - elasticsearh
-- Семейства стол
+	Используется в документориентированных БД:
+	 - mongoDB
+	 - CouchDB
+	 - elasticsearh
+- Семейства столбцов
+- Графы
+- ...
