@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "техноло",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,11 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 280
   },
   "right": {
     "id": "20b38d84e48b3164",
@@ -87,7 +88,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19690367b1ac24bb",
+  "active": "b2eb99c4d360a8e6",
   "lastOpenFiles": [
     "Цифровое производство/Структура производственных процессов.svg",
     "Цифровое производство/Производственный процесс и его принципы.md",
