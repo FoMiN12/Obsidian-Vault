@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "03bcf250fd3a249a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6a0c3ae56824add",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c19b0e657f33a152",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Филисофия/Лекции/Антропология.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "462baa3907787af2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd64a73d99523d52",
+    "type": "split",
+    "children": [
+      {
+        "id": "79cd7240c859b6dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39eebc483cf149ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "b2eb99c4d360a8e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280
+  },
+  "right": {
+    "id": "20b38d84e48b3164",
+    "type": "split",
+    "children": [
+      {
+        "id": "90088a3b89432171",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11b4d3a738bc3e90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Филисофия/Лекции/Антропология.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "462baa3907787af2",
+  "lastOpenFiles": [
+    "Филисофия/Лекции/История Философии.md",
+    "Филисофия/Лекции/Антропология.md",
+    "Филисофия/Лекции/Untitled Diagram.svg",
+    "Цифровое производство/Структура производственных процессов.svg",
+    "Цифровое производство/Производственный процесс и его принципы.md",
+    "Линейная алгебра/Греческий алфавит.md",
+    "Алгоритмы и структуры данных/Сложность алгоритмов (О-большое).md",
+    "Элитные группы/Системы мониторинга команд.md",
+    "Основы программирования систем управления/Технология Ethernet.md",
+    "Основы программирования систем управления/Ethernet Powerlink.md"
+  ]
+}
