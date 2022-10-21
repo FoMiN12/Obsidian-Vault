@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Цифровое производство/IoT.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "895adc0ef1dd3422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Цифровое производство/Безопасность в Интернете вещей.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280
+    "width": 200
   },
   "right": {
     "id": "20b38d84e48b3164",
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Цифровое производство/IoT.md",
+                "file": "Цифровое производство/Безопасность в Интернете вещей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,11 +111,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c19b0e657f33a152",
+  "active": "39eebc483cf149ed",
   "lastOpenFiles": [
+    "Цифровое производство/IoT.md",
     "Линейная алгебра/Матрица.md",
     "Линейная алгебра/Минор.md",
-    "Цифровое производство/IoT.md",
     "Цифровое производство/Структура производственных процессов.svg",
     "Базы данных/Язык запросов SQL.md",
     "Базы данных/Реляционные (SQL) базы данных.md",
