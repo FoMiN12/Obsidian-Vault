@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9cf2444776c52ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Цифровое производство/Сети NGN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5e359a5874619d1e",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Цифровое производство/Безопасность в Интернете вещей.md",
+                "file": "Цифровое производство/Сети NGN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,10 +123,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c19b0e657f33a152",
+  "active": "9cf2444776c52ee4",
   "lastOpenFiles": [
-    "Цифровое производство/IoT.md",
     "Цифровое производство/Безопасность в Интернете вещей.md",
+    "Цифровое производство/IoT.md",
     "Цифровое производство/Производственный процесс и его принципы.md",
     "Линейная алгебра/Матрица.md",
     "Линейная алгебра/Минор.md",
